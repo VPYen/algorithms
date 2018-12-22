@@ -27,13 +27,13 @@ Given the table Suspect, build the resulting table as follows: the table should 
 name and surname and its values should be ordered by the suspects' ids in ascending order.
 
 For the following table of Suspect
-id 	name 	surname 	height 	weight
-1 	John 	Doe 	      165 	60
-2 	Bill 	Green 	    170 	67
-3 	Baelfire 	Grehn 	172 	70
-4 	Bill 	Gretan 	    185 	55
-5 	Brendon 	Grewn 	180 	50
-6 	bill 	Green 	    172 	50
+id 	name 	surname    height  weight
+1 	John 	Doe 	    165      60
+2 	Bill 	Green 	    170      67
+3 	Baelfire Grehn 	    172      70
+4 	Bill 	Gretan 	    185      55
+5 	Brendon Grewn 	    180      50
+6 	bill 	Green 	    172      50
 
 the output should be
 id 	name 	surname
