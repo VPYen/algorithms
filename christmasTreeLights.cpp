@@ -1,5 +1,7 @@
 /*
-Christmas is coming! You are going to decorate your Christmas Tree, but to do that you need to estimate the number of garland lights you need to buy. To do that, you draw a scheme of your tree:
+Christmas is coming! You are going to decorate your Christmas Tree, 
+but to do that you need to estimate the number of garland lights you need to buy. 
+To do that, you draw a scheme of your tree:
 
    *
   ***
