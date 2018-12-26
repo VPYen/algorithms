@@ -35,18 +35,18 @@ id 	item_name 	item_type
 9 	DiskHolder 	Misc
 10 	Cinco 50-Pack 	DVD
 11 	SafeDisk 4GB 	USB drive
-12 	DiskCleaner Pro 	Misc
+12 	DiskCleaner Pro Misc
 
 the output should be
 item_name 	item_type 	item_count
-Cinco 30-Pack 	DVD 	1
-Cinco 50-Pack 	DVD 	2
-SafeDisk 4GB 	Memory card 	3
-SafeDisk 8GB 	Memory card 	1
-DiskCleaner Pro 	Misc 	1
-DiskHolder 	Misc 	1
-SafeDisk 4GB 	USB drive 	2
-SafeDisk 8GB 	USB drive 	1
+Cinco 30-Pack 	DVD 		    1
+Cinco 50-Pack 	DVD 		    2
+SafeDisk 4GB 	Memory card 	    3
+SafeDisk 8GB 	Memory card 	    1
+DiskCleaner Pro Misc	 	    1
+DiskHolder 	Misc 		    1
+SafeDisk 4GB 	USB drive 	    2
+SafeDisk 8GB 	USB drive 	    1
 
 [execution time limit] 10 seconds (mysql)
 
