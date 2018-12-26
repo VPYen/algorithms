@@ -37,7 +37,7 @@ id 	item_name 	item_type
 11 	SafeDisk 4GB 	USB drive
 12 	DiskCleaner Pro Misc
 
-the output should be
+The output should be
 item_name 	item_type 	item_count
 Cinco 30-Pack 	DVD 		    1
 Cinco 50-Pack 	DVD 		    2
