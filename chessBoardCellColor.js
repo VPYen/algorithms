@@ -28,7 +28,7 @@ Input/Output
     [input] string cell2
 
     [output] boolean
-        true if both cells have the same color, false otherwise.
+    true if both cells have the same color, false otherwise.
 
 
 
