@@ -57,11 +57,14 @@ function holidayPotluck(dishes, capacity) {
     dishes.sort((a,b)=> {
         var qualityA = a[0];
         var qualityB = b[0];
+        // Difference between A and B is -1 means A is less than B
         if (qualityA < qualityB) {
             return -1;
+        // Difference A and B is 1 means A is greater than B
         }else if (qualityA > qualityB ) {
             return 1;
         }
+        // Difference between A and B is - means A is equal to B
         return 0;
     });
 
