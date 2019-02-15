@@ -32,5 +32,5 @@ ow are
 "
 while read x
 do
-  echo ${x:1:7}
+  echo $x | -c2-7
 done
