@@ -21,15 +21,20 @@ Input/Output
 
 
 */
-
-int arrayMaximalAdjacentDifference(int[] inputArray) {
+class MaxAdjDifference {
+  static int arrayMaximalAdjacentDifference(int[] inputArray) {
     int difference = 0;
     for(int i = 0; i < inputArray.length; i++) {
-        if(i + 1 < inputArray.length) {
-            if(Math.abs(inputArray[i]-inputArray[i+1]) > difference) {
-                difference = Math.abs(inputArray[i]-inputArray[i+1]);
-            }
+      if(i + 1 < inputArray.length) {
+        if(Math.abs(inputArray[i]-inputArray[i+1]) > difference) {
+          difference = Math.abs(inputArray[i]-inputArray[i+1]);
         }
+      }
     }
     return difference;
+  }
+
+  public static void main(String[] args) {
+    //Enter arguments here
+  }
 }

@@ -49,12 +49,15 @@ Sample Output
 */
 
 // Function provided; however, will require proper formatting in order to run.
-
-static void staircase(int n) {
+class HashStaircase {
+  static void staircase(int n) {
     for(int i = 1; i <= n; i++) {
       String spaceStr = new String(new char[n-i]).replace("\0"," ");
       String hashStr = new String(new char[i]).replace("\0", "#");
       System.out.println(spaceStr + hashStr);
     }
-
+  }
+  public static void main(String[] args) {
+    // Enter arguments here
+  }
 }
