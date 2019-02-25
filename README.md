@@ -1,4 +1,4 @@
-# algorithms
+# Algorithms
 
 Solutions to algorithms I've solved.
 
