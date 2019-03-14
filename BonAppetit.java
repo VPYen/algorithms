@@ -85,6 +85,6 @@ public class BonAppetit {
   public static void main(String[] args) {
     // Enter arguments here
     // example below
-    // bonAppetit(Arrays.asList({3, 10, 2, 9}), 1, 12);
+    // bonAppetit(Arrays.asList(new Integer[]{3, 10, 2, 9}), 1, 12);
   }
 }

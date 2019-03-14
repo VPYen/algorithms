@@ -74,6 +74,6 @@ public class BreakingRecords {
   public static void main(String[] args) {
     // Enter arguments here
     // example below
-    // System.out.println(breakingRecords({3, 4, 21, 36, 10, 28, 35, 5, 24, 42}));
+    // System.out.println(breakingRecords(new int[]{3, 4, 21, 36, 10, 28, 35, 5, 24, 42}));
   }
 }

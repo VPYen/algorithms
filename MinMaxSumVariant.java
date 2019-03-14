@@ -82,6 +82,6 @@ public class MinMaxSumVariant {
 
   public static void main(String[] args) {
     // Enter test arguments here...
-    // printMinMax({1,2,3,4,5})
+    // printMinMax(new int[]{1,2,3,4,5})
   }
 }
