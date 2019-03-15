@@ -67,6 +67,9 @@ Bon Appetit
 
 */
 
+import java.util.List;
+import java.util.Arrays;
+
 public class BonAppetit {
   static void bonAppetit(List<Integer> bill, int k, int b) {
     int notEaten = bill.get(k)/2;
